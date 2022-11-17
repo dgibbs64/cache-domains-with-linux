@@ -403,7 +403,6 @@ syd.mirror.rackspace.com
 tux.rainside.sk
 uvermont.mm.fcix.net
 vpsmurah.jagoanhosting.com
-wcbmedia.io:8000
 www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
