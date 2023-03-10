@@ -40,10 +40,20 @@
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
 		},
+				{
+			"name": "fedroa",
+			"description": "CDN-mirrors for Fedroa linux",
+			"domain_files": ["fedora.txt"]
+		},
 		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
+		},
+		{
+			"name": "linuxmirrors",
+			"description": "CDN-mirros for linux",
+			"domain_files": ["linuxmirrors.txt"]
 		},
 		{
 			"name": "nexusmods",
