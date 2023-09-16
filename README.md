@@ -18,7 +18,12 @@ Currently Debian and Arch based distros are supported including:
 - Arch
 
 
-If you have other distros working please raise a PR and we can merge this in. I would be interested in how well this works with SteamDeck as well
+If you have other distros working please raise a PR and we can merge this in. 
+
+## Note
+I did find one problem. I fix it by finding and deleting this one file every night using cron
+30 1 * * * /mnt/cache/nginx-cache-purge "InRelease" /mnt/cache/cache/cache/
+here is the pruge script that I use https://github.com/perusio/nginx-cache-purge/blob/master/nginx-cache-purge
 
 ## Usage
 
