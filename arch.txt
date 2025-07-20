@@ -12,6 +12,7 @@ arch.mithril.re
 arch.phinau.de
 arch.sakamoto.pl
 arch.softver.org.mk
+arch.sukuna.ovh
 arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
@@ -382,6 +383,7 @@ pkg.adfinis.com
 plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
 repo.br.ee
+repo.customcomputercare.com
 repo.hyron.dev
 repo.ialab.dsu.edu
 repo.iut.ac.ir
