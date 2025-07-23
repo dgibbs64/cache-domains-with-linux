@@ -9,6 +9,7 @@ arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirrors.lavatech.top
 arch.mithril.re
+arch.owochle.app
 arch.phinau.de
 arch.sakamoto.pl
 arch.softver.org.mk
@@ -40,6 +41,7 @@ archlinux.mirror.wearetriple.com
 archlinux.mirrors.linux.ro
 archlinux.mirrors.ovh.net
 archlinux.nautile.nc
+archlinux.nic.cz
 archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
@@ -108,6 +110,7 @@ gb.mirrors.cicku.me
 glua.ua.pt
 gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
+hk.mirrors.cicku.me
 hkg.mirror.rackspace.com
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
@@ -332,7 +335,6 @@ mirrors.n-ix.net
 mirrors.nav.ro
 mirrors.nepalicloud.com
 mirrors.neusoft.edu.cn
-mirrors.nic.cz
 mirrors.nix.org.ua
 mirrors.niyawe.de
 mirrors.nju.edu.cn
@@ -349,6 +351,7 @@ mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.smeal.xyz
 mirrors.sonic.net
+mirrors.teamcloud.am
 mirrors.tuna.tsinghua.edu.cn
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
