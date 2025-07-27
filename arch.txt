@@ -110,7 +110,6 @@ gb.mirrors.cicku.me
 glua.ua.pt
 gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
-hk.mirrors.cicku.me
 hkg.mirror.rackspace.com
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
