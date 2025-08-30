@@ -129,6 +129,7 @@ lon.mirror.rackspace.com
 mala-arch-server.eu
 md.mirrors.hacktegic.com
 mir.archlinux.fr
+mirror-de-1.cutie.dating
 mirror-hk.koddos.net
 mirror.0xem.ma
 mirror.1ago.be
@@ -214,6 +215,7 @@ mirror.juniorjpdj.pl
 mirror.kamtv.ru
 mirror.keiminem.com
 mirror.kku.ac.th
+mirror.kmw21.xyz
 mirror.koddos.net
 mirror.kpfu.ru
 mirror.kumi.systems
@@ -227,6 +229,7 @@ mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maeen.sa
 mirror.mangohost.net
+mirror.marcusn.net
 mirror.math.princeton.edu
 mirror.metalgamer.eu
 mirror.metanet.ch
