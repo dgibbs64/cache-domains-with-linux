@@ -407,6 +407,7 @@ syd.mirror.rackspace.com
 tux.rainside.sk
 tw.mirrors.cicku.me
 us.mirrors.cicku.me
+vladivostokst.ru
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
