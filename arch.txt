@@ -14,7 +14,6 @@ arch.owochle.app
 arch.phinau.de
 arch.sakamoto.pl
 arch.softver.org.mk
-arch.sukuna.ovh
 arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
@@ -261,6 +260,7 @@ mirror.rackspace.com
 mirror.rain.ne.jp
 mirror.raiolanetworks.com
 mirror.repository.id
+mirror.retropc.se
 mirror.ro.cdn-perfprod.com
 mirror.rznet.fr
 mirror.sabay.com.kh
