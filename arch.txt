@@ -74,6 +74,7 @@ ftp-stud.hs-esslingen.de
 ftp.agdsn.de
 ftp.byfly.by
 ftp.cc.uoc.gr
+ftp.energotel.sk
 ftp.fau.de
 ftp.fi.muni.cz
 ftp.gwdg.de
@@ -86,6 +87,7 @@ ftp.jaist.ac.jp
 ftp.kaist.ac.kr
 ftp.lanet.kr
 ftp.linux.cz
+ftp.linux.edu.lv
 ftp.linux.org.tr
 ftp.ludd.ltu.se
 ftp.lysator.liu.se
@@ -172,6 +174,7 @@ mirror.cyberbits.eu
 mirror.datacenter.by
 mirror.dc.uz
 mirror.digitalnova.at
+mirror.distly.kr
 mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
@@ -196,7 +199,6 @@ mirror.host.ag
 mirror.hosthink.net
 mirror.hostiko.network
 mirror.hugo-betrugo.de
-mirror.i3d.net
 mirror.ihost.md
 mirror.informatik.tu-freiberg.de
 mirror.init7.net
@@ -213,7 +215,6 @@ mirror.juniorjpdj.pl
 mirror.kamtv.ru
 mirror.keiminem.com
 mirror.kku.ac.th
-mirror.kmw21.xyz
 mirror.koddos.net
 mirror.kpfu.ru
 mirror.kumi.systems
@@ -277,6 +278,7 @@ mirror.sinirlan.net
 mirror.siwoo.org
 mirror.sunred.org
 mirror.t-home.mk
+mirror.techlabs.co.kr
 mirror.tedwall.se
 mirror.telepoint.bg
 mirror.terrahost.no
@@ -297,7 +299,6 @@ mirror.vtti.vt.edu
 mirror.wdc1.us.leaseweb.net
 mirror.wtnet.de
 mirror.wuki.li
-mirror.xenedium.com
 mirror.xenyth.net
 mirror.xeonbd.com
 mirror.xtom.com.hk
