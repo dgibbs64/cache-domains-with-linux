@@ -307,6 +307,7 @@ mirror.yer.az
 mirror.yuki.net.uk
 mirror1.sox.rs
 mirror2.evolution-host.com
+mirror2.keiminem.com
 mirrors.163.com
 mirrors.acm.wpi.edu
 mirrors.aliyun.com
