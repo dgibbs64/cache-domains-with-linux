@@ -190,7 +190,6 @@ mirror.funami.tech
 mirror.gi.co.id
 mirror.group.one
 mirror.guillaumea.fr
-mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hnd.cl
@@ -238,10 +237,10 @@ mirror.mirohost.net
 mirror.mobinhost.com
 mirror.moson.org
 mirror.mra.sh
+mirror.murmellow.lol
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
-mirror.nishi.network
 mirror.nl.cdn-perfprod.com
 mirror.nucc.tr
 mirror.nw-sys.ru
