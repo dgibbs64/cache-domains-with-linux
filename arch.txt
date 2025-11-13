@@ -193,7 +193,6 @@ mirror.guillaumea.fr
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hnd.cl
-mirror.hntr.pp.ua
 mirror.host.ag
 mirror.hosthink.net
 mirror.hostiko.network
@@ -285,6 +284,7 @@ mirror.theo546.fr
 mirror.tiguinet.net
 mirror.timtal.com.tr
 mirror.trap.moe
+mirror.trapmaid.org
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.twds.com.tw
