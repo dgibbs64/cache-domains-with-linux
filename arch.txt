@@ -59,6 +59,7 @@ cdnmirror.com
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
+de.mirror.shibe.party
 de.mirrors.cicku.me
 dfw.mirror.rackspace.com
 distro.ibiblio.org
@@ -68,6 +69,7 @@ elmirror.cl
 es.mirrors.cicku.me
 f.matthieul.dev
 forksystems.mm.fcix.net
+fr.mirror.shibe.party
 fr.mirrors.cicku.me
 free.nchc.org.tw
 ftp-stud.hs-esslingen.de
