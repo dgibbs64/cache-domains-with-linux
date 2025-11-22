@@ -34,6 +34,7 @@ archlinux.mirror.garr.it
 archlinux.mirror.iphh.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
+archlinux.mirror.net.za
 archlinux.mirror.py
 archlinux.mirror.rafal.ca
 archlinux.mirror.server24.net
@@ -178,6 +179,7 @@ mirror.dc.uz
 mirror.digitalnova.at
 mirror.distly.kr
 mirror.ditatompel.com
+mirror.diyarciftci.xyz
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
@@ -245,6 +247,7 @@ mirror.neuf.no
 mirror.nl.cdn-perfprod.com
 mirror.nucc.tr
 mirror.nw-sys.ru
+mirror.nyaa.vc
 mirror.nyist.edu.cn
 mirror.oldsql.cc
 mirror.onevip.mk
@@ -297,6 +300,7 @@ mirror.ufscar.br
 mirror.umd.edu
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
+mirror.wane.kr
 mirror.wdc1.us.leaseweb.net
 mirror.wtnet.de
 mirror.wuki.li
