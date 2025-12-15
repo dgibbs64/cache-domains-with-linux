@@ -298,6 +298,7 @@ mirror.ufam.edu.br
 mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
+mirror.us.cdn-perfprod.com
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wane.kr
@@ -385,7 +386,6 @@ nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
-nova.quantum-mirror.hu
 ny.us.mirrors.bjg.at
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
@@ -395,7 +395,6 @@ ossmirror.mycloud.services
 packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
 plug-mirror.rcac.purdue.edu
-quantum-mirror.hu
 repo.br.ee
 repo.customcomputercare.com
 repo.hyron.dev
@@ -408,7 +407,6 @@ ru.mirrors.cicku.me
 sa.mirrors.cicku.me
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
-super.quantum-mirror.hu
 syd.mirror.rackspace.com
 tux.rainside.sk
 tw.mirrors.cicku.me
