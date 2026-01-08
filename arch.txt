@@ -386,7 +386,6 @@ nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
-ny.us.mirrors.bjg.at
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
 ord.mirror.rackspace.com
