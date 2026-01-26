@@ -117,6 +117,7 @@ glua.ua.pt
 gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
 hkg.mirror.rackspace.com
+hu.mirror.frigyes.dev
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
 in-mirror.garudalinux.org
