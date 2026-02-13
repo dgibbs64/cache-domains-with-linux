@@ -55,6 +55,7 @@ artfiles.org
 at.mirrors.cicku.me
 au.mirrors.cicku.me
 br.mirrors.cicku.me
+ca.mirror.cx
 ca.mirrors.cicku.me
 cdnmirror.com
 ch.mirrors.cicku.me
@@ -86,6 +87,7 @@ ftp.hosteurope.de
 ftp.hrts.kr
 ftp.icm.edu.pl
 ftp.iinet.net.au
+ftp.io.kr
 ftp.jaist.ac.jp
 ftp.kaist.ac.kr
 ftp.lanet.kr
@@ -111,6 +113,7 @@ ftp.u-strasbg.fr
 ftp.uni-bayreuth.de
 ftp.uni-hannover.de
 ftp.uni-kl.de
+ftp.yz.yamagata-u.ac.jp
 ftpmirror.infania.net
 gb.mirrors.cicku.me
 glua.ua.pt
@@ -146,6 +149,7 @@ mirror.abderraziq.com
 mirror.accum.se
 mirror.adectra.com
 mirror.aktkn.sg
+mirror.alldaydev.com
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -383,9 +387,11 @@ mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
+nl.mirror.cx
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
+no.mirror.cx
 nocix.mm.fcix.net
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
@@ -411,7 +417,6 @@ syd.mirror.rackspace.com
 tux.rainside.sk
 tw.mirrors.cicku.me
 us.mirrors.cicku.me
-vladivostokst.ru
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
