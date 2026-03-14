@@ -4,6 +4,22 @@
 
 This is a list of all hostnames that are required to be redirected for running a game content cache. This list will change frequently so this is designed to be a definitive list.
 
+The maintainers of LAN Cache dont currently want to support Linux package caching so this fork will add support (when possible) for Linux distros
+
+Currently Debian and Arch based distros are supported including:
+
+- Debian
+- Ubuntu
+- Kali
+- Mint
+- Pop_OS!
+- Deepin
+- ppa launchpad
+- Arch
+
+
+If you have other distros working please raise a PR and we can merge this in. I would be interested in how well this works with SteamDeck as well
+
 ## Usage
 
 You can use this list one of two ways:
