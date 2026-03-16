@@ -43,6 +43,7 @@ archlinux.mirrors.linux.ro
 archlinux.mirrors.ovh.net
 archlinux.nautile.nc
 archlinux.nic.cz
+archlinux.roshak.xyz
 archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
@@ -417,6 +418,7 @@ syd.mirror.rackspace.com
 tux.rainside.sk
 tw.mirrors.cicku.me
 us.mirrors.cicku.me
+vlst.su
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
