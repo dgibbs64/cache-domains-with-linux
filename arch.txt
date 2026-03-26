@@ -167,6 +167,7 @@ mirror.bakertelekom.fr
 mirror.barata.pt
 mirror.bizflycloud.vn
 mirror.bouwhuis.network
+mirror.cachy-arch.ru
 mirror.cedia.org.ec
 mirror.citrahost.com
 mirror.cj2.nl
