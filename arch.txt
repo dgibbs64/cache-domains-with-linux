@@ -195,6 +195,7 @@ mirror.es.cdn-perfprod.com
 mirror.ette.biz
 mirror.fcix.net
 mirror.fossable.org
+mirror.fr.cdn-perfprod.com
 mirror.fra10.de.leaseweb.net
 mirror.freedif.org
 mirror.fsmg.org.nz
@@ -233,7 +234,9 @@ mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.leitecastro.com
 mirror.limda.net
+mirror.linxhost.ru
 mirror.lnx.sk
+mirror.lu.stratonexus.net
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maeen.sa
@@ -421,6 +424,7 @@ tw.mirrors.cicku.me
 us.mirrors.cicku.me
 vlst.su
 volico.mm.fcix.net
+wan.metrosg.ru
 wcbmedia.io
 web.sketserv.ru
 www.miraa.jp
