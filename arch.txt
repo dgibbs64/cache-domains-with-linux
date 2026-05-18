@@ -3,6 +3,7 @@ arch-lux.spirex.me
 arch.hu.fo
 arch.hugeblank.dev
 arch.jensgutermuth.de
+arch.ljkx.org
 arch.midov.pl
 arch.miningtcup.me
 arch.mirror.cloud.thatcyberlynx.de
@@ -203,6 +204,7 @@ mirror.funami.tech
 mirror.gi.co.id
 mirror.group.one
 mirror.guillaumea.fr
+mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hnd.cl
@@ -303,6 +305,7 @@ mirror.trapmaid.org
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.twds.com.tw
+mirror.tzulo.com
 mirror.ubrco.de
 mirror.ufam.edu.br
 mirror.ufro.cl
