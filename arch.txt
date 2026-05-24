@@ -239,6 +239,7 @@ mirror.limda.net
 mirror.linxhost.ru
 mirror.lnx.sk
 mirror.lu.stratonexus.net
+mirror.lug.umbc.edu
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maeen.sa
@@ -268,6 +269,7 @@ mirror.ourhost.az
 mirror.pagenotfound.de
 mirror.papua.go.id
 mirror.peeres-telecom.fr
+mirror.pileus.kr
 mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
 mirror.ps.kz
@@ -341,6 +343,7 @@ mirrors.chroot.ro
 mirrors.cqu.edu.cn
 mirrors.dotsrc.org
 mirrors.evoluso.com
+mirrors.foxmire.space
 mirrors.gandi.net
 mirrors.gigenet.com
 mirrors.hit.edu.cn
