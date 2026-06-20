@@ -19,6 +19,7 @@ arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
 archlinux-mirror.cloud.mu
+archlinux-mirror.techticity.com
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
@@ -259,7 +260,6 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nl.cdn-perfprod.com
-mirror.nucc.tr
 mirror.nw-sys.ru
 mirror.nyaa.vc
 mirror.nyist.edu.cn
