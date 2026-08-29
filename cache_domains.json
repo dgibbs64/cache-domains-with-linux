@@ -50,6 +50,11 @@
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
 		},
+    {
+      "name": "google",
+      "description": "CDN for ChromeOS, Chrome browser, and Google Updates",
+      "domain_files": ["google.txt"]
+    },
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
