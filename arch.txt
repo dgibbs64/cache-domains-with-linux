@@ -18,7 +18,6 @@ arch.softver.org.mk
 arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
-archlinux-mirror.cloud.mu
 archlinux-mirror.techticity.com
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
@@ -88,9 +87,7 @@ ftp.fi.muni.cz
 ftp.gwdg.de
 ftp.halifax.rwth-aachen.de
 ftp.hosteurope.de
-ftp.hrts.kr
 ftp.icm.edu.pl
-ftp.iinet.net.au
 ftp.io.kr
 ftp.jaist.ac.jp
 ftp.kaist.ac.kr
@@ -163,7 +160,6 @@ mirror.archlinux.no
 mirror.archlinux.tw
 mirror.aria-on-the-planet.es
 mirror.arizona.edu
-mirror.arvancloud.ir
 mirror.as20647.net
 mirror.bahnhof.net
 mirror.bakertelekom.fr
@@ -217,13 +213,11 @@ mirror.hugo-betrugo.de
 mirror.ihost.md
 mirror.informatik.tu-freiberg.de
 mirror.init7.net
-mirror.internode.on.net
 mirror.ipb.de
 mirror.is.co.za
 mirror.isoc.org.il
 mirror.it4i.cz
 mirror.its-tps.fr
-mirror.its.dal.ca
 mirror.jingk.ai
 mirror.jonas-prz.be
 mirror.juniorjpdj.pl
@@ -269,7 +263,6 @@ mirror.oldsql.cc
 mirror.onevip.mk
 mirror.ourhost.az
 mirror.pagenotfound.de
-mirror.papua.go.id
 mirror.peeres-telecom.fr
 mirror.pileus.kr
 mirror.pit.teraswitch.com
@@ -280,7 +273,6 @@ mirror.quantum5.ca
 mirror.rackspace.com
 mirror.rain.ne.jp
 mirror.raiolanetworks.com
-mirror.repository.id
 mirror.retropc.se
 mirror.rznet.fr
 mirror.sabay.com.kh
@@ -313,7 +305,6 @@ mirror.twds.com.tw
 mirror.tzulo.com
 mirror.ubrco.de
 mirror.ufam.edu.br
-mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.us.cdn-perfprod.com
