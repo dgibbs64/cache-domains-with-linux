@@ -69,7 +69,6 @@ de.mirrors.cicku.me
 dfw.mirror.rackspace.com
 distro.ibiblio.org
 distrohub.kyiv.ua
-edgeuno-bog2.mm.fcix.net
 elmirror.cl
 es.mirrors.cicku.me
 f.matthieul.dev
@@ -136,7 +135,6 @@ lidsol.fi-b.unam.mx
 linux.rz.rub.de
 lon.mirror.rackspace.com
 mala-arch-server.eu
-md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-de-1.cutie.dating
 mirror-hk.koddos.net
@@ -185,15 +183,11 @@ mirror.datacenter.by
 mirror.dc.uz
 mirror.digitalnova.at
 mirror.distly.kr
-mirror.ditatompel.com
 mirror.diyarciftci.xyz
-mirror.dkm.cz
-mirror.easyname.at
 mirror.efect.ro
 mirror.es.cdn-perfprod.com
 mirror.famaserver.com
 mirror.fcix.net
-mirror.fossable.org
 mirror.fr.cdn-perfprod.com
 mirror.fra10.de.leaseweb.net
 mirror.freedif.org
@@ -203,7 +197,6 @@ mirror.gi.co.id
 mirror.group.one
 mirror.guillaumea.fr
 mirror.hashy0917.net
-mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hnd.cl
 mirror.host.ag
@@ -219,7 +212,6 @@ mirror.isoc.org.il
 mirror.it4i.cz
 mirror.its-tps.fr
 mirror.jingk.ai
-mirror.jonas-prz.be
 mirror.juniorjpdj.pl
 mirror.kalem.dev
 mirror.kamtv.ru
@@ -231,7 +223,6 @@ mirror.kumi.systems
 mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
-mirror.leitecastro.com
 mirror.limda.net
 mirror.linxhost.ru
 mirror.lnx.sk
@@ -251,7 +242,6 @@ mirror.mirohost.net
 mirror.mobinhost.com
 mirror.moson.org
 mirror.mra.sh
-mirror.murmellow.lol
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
@@ -295,7 +285,6 @@ mirror.tedwall.se
 mirror.telepoint.bg
 mirror.terrahost.no
 mirror.theo546.fr
-mirror.tiguinet.net
 mirror.timtal.com.tr
 mirror.trap.moe
 mirror.trapmaid.org
@@ -373,7 +362,6 @@ mirrors.reitarovskyi.com.ua
 mirrors.rit.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
-mirrors.smeal.xyz
 mirrors.sonic.net
 mirrors.teamcloud.am
 mirrors.tuna.tsinghua.edu.cn
@@ -392,7 +380,6 @@ mirrors.xtom.de
 mirrors.xtom.ee
 mirrors.xtom.nl
 mirrors.zju.edu.cn
-mnvoip.mm.fcix.net
 muug.ca
 nl.mirror.cx
 nl.mirror.flokinet.net
