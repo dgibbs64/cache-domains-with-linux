@@ -369,7 +369,6 @@ mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
 mirrors.uni-plovdiv.net
 mirrors.up.pt
-mirrors.urbanwave.co.za
 mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.vpspulse.com
