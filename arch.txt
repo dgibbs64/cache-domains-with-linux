@@ -13,6 +13,7 @@ arch.mirrors.lavatech.top
 arch.mithril.re
 arch.owochle.app
 arch.phinau.de
+arch.s-levi.com
 arch.sakamoto.pl
 arch.softver.org.mk
 arch.syxpi.fr
@@ -148,6 +149,7 @@ mirror.abderraziq.com
 mirror.accum.se
 mirror.adectra.com
 mirror.aktkn.sg
+mirror.alastyr.com
 mirror.alldaydev.com
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
@@ -309,6 +311,7 @@ mirror.xtom.com.hk
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
+mirror.zyner.org
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.keiminem.com
@@ -368,7 +371,6 @@ mirrors.tuna.tsinghua.edu.cn
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
 mirrors.uni-plovdiv.net
-mirrors.up.pt
 mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.vpspulse.com
