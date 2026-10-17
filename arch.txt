@@ -248,13 +248,13 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nl.cdn-perfprod.com
+mirror.nl2.cdn-perfprod.com
 mirror.nw-sys.ru
 mirror.nyaa.vc
 mirror.nyist.edu.cn
 mirror.oldsql.cc
 mirror.onevip.mk
 mirror.ourhost.az
-mirror.pagenotfound.de
 mirror.peeres-telecom.fr
 mirror.pileus.kr
 mirror.pit.teraswitch.com
@@ -299,6 +299,10 @@ mirror.ufam.edu.br
 mirror.ufscar.br
 mirror.umd.edu
 mirror.us.cdn-perfprod.com
+mirror.us2.cdn-perfprod.com
+mirror.us3.cdn-perfprod.com
+mirror.us4.cdn-perfprod.com
+mirror.us5.cdn-perfprod.com
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wane.kr
@@ -396,6 +400,7 @@ ossmirror.mycloud.services
 packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
 plug-mirror.rcac.purdue.edu
+prism.viarezo.fr
 repo.customcomputercare.com
 repo.hyron.dev
 repo.ialab.dsu.edu
