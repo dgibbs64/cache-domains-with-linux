@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate_arch_mirrors:
     runs-on: ubuntu-latest
@@ -12,20 +15,31 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
+        with:
+          ref: master
 
       - name: Generate Arch Mirror List
-        id: generate
-        run: curl -L https://www.archlinux.org/mirrorlist/all/http | grep -oP 'https?://\K[^/]*' | sed "s/:.*//g" | sort -u >arch.txt
-
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        shell: bash
+        run: |
+          curl -fsSL --retry 3 https://archlinux.org/mirrorlist/all/http/ \
+            | grep -oP 'https?://\K[^/:]+' \
+            | LC_ALL=C sort -u >arch.txt.new
+          count=$(wc -l <arch.txt.new)
+          if [ "${count}" -lt 100 ]; then
+            echo "::error::Only ${count} mirrors found, keeping the existing list"
+            exit 1
+          fi
+          mv arch.txt.new arch.txt
 
       - name: Push to master branch
-        uses: Automattic/action-commit-to-branch@master
-        with:
-          branch: "master"
-          commit_message: "GitHub Actions build: ${{ steps.date.outputs.date }}"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        run: |
+          if git diff --quiet -- arch.txt; then
+            echo "No mirror changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arch.txt
+          git commit -m "GitHub Actions build: $(date +'%Y-%m-%d')"
+          git push origin master
