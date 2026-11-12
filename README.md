@@ -4,7 +4,7 @@
 
 This is a list of all hostnames that are required to be redirected for running a game content cache. This list will change frequently so this is designed to be a definitive list.
 
-The maintainers of LAN Cache dont currently want to support Linux package caching so this fork will add support (when possible) for Linux distros
+The maintainers of LAN Cache don't currently want to support Linux package caching so this fork will add support (when possible) for Linux distros
 
 Currently Debian and Arch based distros are supported including:
 
@@ -17,8 +17,18 @@ Currently Debian and Arch based distros are supported including:
 - ppa launchpad
 - Arch
 
-
 If you have other distros working please raise a PR and we can merge this in. I would be interested in how well this works with SteamDeck as well
+
+To use this fork with LanCache, set `CACHE_DOMAINS_REPO` to this repository in your LanCache `.env` file.
+
+### Known issue: stale package indexes
+
+LanCache keeps repository index files (apt `InRelease`, Arch `core.db` and similar) for as long as it keeps packages, so clients can stop seeing updates, and apt can report that a release file has expired. This list only decides which hostnames are redirected, so a proper fix needs a change to the cache's nginx config. See [#6](https://github.com/dgibbs64/cache-domains-with-linux/issues/6) and [#7](https://github.com/dgibbs64/cache-domains-with-linux/issues/7).
+
+Workarounds reported by users, not tested here:
+
+- apt: purge `InRelease` from the cache every night, for example with [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge).
+- Arch: refresh each database through the cache by requesting it with a `?nocache=1` query string.
 
 ## Usage
 
@@ -91,7 +101,7 @@ If you have any questions, please check [our FAQs](faq.md).
 
 ## Issues and Feedback
 
-Please raise all issues and feedback on GitHub at [uklans/cache-domains](https://github.com/uklans/cache-domains/issues).
+Please raise issues with the Linux lists at [dgibbs64/cache-domains-with-linux](https://github.com/dgibbs64/cache-domains-with-linux/issues), and everything else at [uklans/cache-domains](https://github.com/uklans/cache-domains/issues).
 
 ## Useful Information
 
