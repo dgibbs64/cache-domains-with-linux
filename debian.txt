@@ -9,3 +9,4 @@ packages.deepin.com
 packages.linuxmint.com
 ports.ubuntu.com
 ppa.launchpad.net
+security.ubuntu.com
